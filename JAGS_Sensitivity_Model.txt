@@ -1,0 +1,56 @@
+model {
+# y is binary taking values 1 (the jkth PCR replicate amplified)
+#                        or 0 (the jkth PCR replicate failed to amplify)
+
+# loop through the samples & PCR reps
+    for(j in 1:N_bags) {
+	for(s in 1:N_extracts) {
+      n_mol_sample[j, s] ~ dnegbin(prob_nb[j, s], r)
+      prob_nb[j, s] <- r / (r + mu[j, s])
+      log(mu[j, s]) <-  concentration[sites[j]] + beta_d * d[j] + eps[j]  + log(sample_vol[j, s])  #d=distance betad=distance coefficient eps=random effect of sample
+      
+      for(k in 1:N_pcr_reps) {
+        n_mol_pcr[j, k, s] ~ dpois(n_mol_sample[j, s] * pcr_dilution)
+        y[j, k, s] ~ dbern(1  - (1  - p[j, k, s]) ^ n_mol_pcr[j, k, s])
+        logit(p[j, k, s]) <- lp
+      }
+    }
+	}
+
+# prior probability of p from the assay dilution - on logit scale
+    p.prec <- 1 / logit.p.se^2
+    lp ~ dnorm(logit.p.mean, p.prec)
+    logit(p_out) <- lp
+
+# wide uniform prior for r, the negative binomial dispersion parameter
+    r ~ dgamma(0.01, 0.01)
+  
+  for(i in 1:N_bags) {
+  eps[i] ~ dnorm(0, tau_eps)
+  }
+  tau_eps <- 1/sd_eps^2
+  sd_eps ~ dexp(0.1)
+  
+# independent non-informative priors for each sites 
+    for(loc in 1:N_sites) {
+        concentration[loc] ~ dnorm(0, 0.01)
+      }
+    
+    beta_d ~ dnorm(0, 0.1)
+	
+	# calculate sensitivity at mean concentrations per site type (active or inactive) given N_samples samples per site
+# and N_pcr_reps PCR replicates per sample and distance d. Sample vol is fixed to [1, 1] because they are all the same
+mean_conc[1] <- mean(concentration[act_sites])
+mean_conc[2] <- mean(concentration[inact_sites])
+
+   for(n in 1:N_samples) {
+    for(i in 1:N_site_types) {
+	for(d in 1:2) {
+	log(mu_sample[i,n,d]) <- mean_conc[i] + beta_d * (d - 1) + log(sample_vol[1,1])
+      theta[i,n,d] <- 1 - (r / (r + mu_sample[i,n,d])) ^ r
+      eta[i,n,d] <- 1 - (r / (r + mu_sample[i,n,d] * pcr_dilution * p_out)) ^ r
+      sens[i,n,d] <- 1 - ((1 - theta[i,n,d]) + theta[i,n,d] * (1 - eta[i,n,d]) ^ N_pcr_reps) ^ n
+    }
+	}
+	}
+}

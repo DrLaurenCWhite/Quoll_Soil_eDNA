@@ -1,0 +1,619 @@
+Sample,Extract,LocationCode,SiteType,DistanceFromLatrine,qPCR1,qPCR2
+CR-LATRINE1-1A,S001-001,CR,Active Latrine,0,1,1
+CR-LATRINE1-1A,S001-017,CR,Active Latrine,0,0,1
+CR-LATRINE1-1A,S001-033,CR,Active Latrine,0,1,1
+CR-LATRINE1-1B,S001-002,CR,Active Latrine,0,1,1
+CR-LATRINE1-1B,S001-018,CR,Active Latrine,0,1,1
+CR-LATRINE1-1B,S001-034,CR,Active Latrine,0,1,1
+CR-LATRINE1-1C,S001-003,CR,Active Latrine,0,1,1
+CR-LATRINE1-1C,S001-019,CR,Active Latrine,0,1,1
+CR-LATRINE1-1C,S001-035,CR,Active Latrine,0,1,1
+CR-LATRINE1-1D,S001-004,CR,Active Latrine,0,1,1
+CR-LATRINE1-1D,S001-020,CR,Active Latrine,0,1,1
+CR-LATRINE1-1D,S001-036,CR,Active Latrine,0,1,1
+CR-LATRINE1-1E,S001-005,CR,Active Latrine,0,1,1
+CR-LATRINE1-1E,S001-021,CR,Active Latrine,0,1,1
+CR-LATRINE1-1E,S001-037,CR,Active Latrine,0,1,1
+CR-LATRINE1-2A,S001-006,CR,Active Latrine,1,0,0
+CR-LATRINE1-2A,S001-022,CR,Active Latrine,1,0,0
+CR-LATRINE1-2A,S001-038,CR,Active Latrine,1,0,0
+CR-LATRINE1-2B,S001-007,CR,Active Latrine,1,1,0
+CR-LATRINE1-2B,S001-023,CR,Active Latrine,1,1,0
+CR-LATRINE1-2B,S001-039,CR,Active Latrine,1,0,0
+CR-LATRINE1-2C,S001-008,CR,Active Latrine,1,0,0
+CR-LATRINE1-2C,S001-024,CR,Active Latrine,1,0,0
+CR-LATRINE1-2C,S001-040,CR,Active Latrine,1,0,0
+CR-LATRINE1-2D,S001-009,CR,Active Latrine,1,0,0
+CR-LATRINE1-2D,S001-025,CR,Active Latrine,1,0,0
+CR-LATRINE1-2D,S001-041,CR,Active Latrine,1,0,1
+CR-LATRINE1-2E,S001-010,CR,Active Latrine,1,1,1
+CR-LATRINE1-2E,S001-026,CR,Active Latrine,1,0,0
+CR-LATRINE1-2E,S001-042,CR,Active Latrine,1,0,0
+GA-LATRINE-1A,S001-012,GA,Active Latrine,0,1,0
+GA-LATRINE-1A,S001-028,GA,Active Latrine,0,0,0
+GA-LATRINE-1A,S001-044,GA,Active Latrine,0,0,0
+GA-LATRINE-1B,S001-013,GA,Active Latrine,1,0,0
+GA-LATRINE-1B,S001-029,GA,Active Latrine,1,0,0
+GA-LATRINE-1B,S001-045,GA,Active Latrine,1,0,0
+GA-LATRINE-2A,S001-014,GA,Active Latrine,0,1,1
+GA-LATRINE-2A,S001-030,GA,Active Latrine,0,1,1
+GA-LATRINE-2A,S001-046,GA,Active Latrine,0,0,0
+GA-LATRINE-2B,S001-015,GA,Active Latrine,1,0,0
+GA-LATRINE-2B,S001-031,GA,Active Latrine,1,0,0
+GA-LATRINE-2B,S001-047,GA,Active Latrine,1,0,0
+MHS2-0-1,S006-H01,MHS2,Active Latrine,0,1,1
+MHS2-0-1,S006-H02,MHS2,Active Latrine,0,1,1
+MHS2-0-1,S006-H03,MHS2,Active Latrine,0,1,1
+MHS2-0-2,S006-A04,MHS2,Active Latrine,0,1,1
+MHS2-0-2,S006-A05,MHS2,Active Latrine,0,0,0
+MHS2-0-2,S006-A06,MHS2,Active Latrine,0,0,0
+MHS2-0-3,S006-B04,MHS2,Active Latrine,0,1,1
+MHS2-0-3,S006-B05,MHS2,Active Latrine,0,1,1
+MHS2-0-3,S006-B06,MHS2,Active Latrine,0,1,0
+MHS2-0-4,S006-C04,MHS2,Active Latrine,0,1,1
+MHS2-0-4,S006-C05,MHS2,Active Latrine,0,1,1
+MHS2-0-4,S006-C06,MHS2,Active Latrine,0,0,1
+MHS2-0-5,S006-D04,MHS2,Active Latrine,0,0,0
+MHS2-0-5,S006-D05,MHS2,Active Latrine,0,0,0
+MHS2-0-5,S006-D06,MHS2,Active Latrine,0,1,1
+MHS2-1 -1,S006-E04,MHS2,Active Latrine,1,1,0
+MHS2-1 -1,S006-E05,MHS2,Active Latrine,1,0,0
+MHS2-1 -1,S006-E06,MHS2,Active Latrine,1,0,0
+MHS2-1 -2,S006-F04,MHS2,Active Latrine,1,1,1
+MHS2-1 -2,S006-F05,MHS2,Active Latrine,1,0,0
+MHS2-1 -2,S006-F06,MHS2,Active Latrine,1,0,0
+MHS2-1 -3,S006-G04,MHS2,Active Latrine,1,0,0
+MHS2-1 -3,S006-G05,MHS2,Active Latrine,1,0,1
+MHS2-1 -3,S006-G06,MHS2,Active Latrine,1,1,0
+MHS2-1 -4,S006-H04,MHS2,Active Latrine,1,0,1
+MHS2-1 -4,S006-H05,MHS2,Active Latrine,1,0,0
+MHS2-1 -4,S006-H06,MHS2,Active Latrine,1,1,1
+MHS2-1 -5,S006-A07,MHS2,Active Latrine,1,0,0
+MHS2-1 -5,S006-A08,MHS2,Active Latrine,1,0,1
+MHS2-1 -5,S006-A09,MHS2,Active Latrine,1,0,0
+MSC-0,S004-G04,MSC_21,Inactive Latrine,0,0,0
+MSC-0,S004-G05,MSC_21,Inactive Latrine,0,0,0
+MSC-0,S004-G06,MSC_21,Inactive Latrine,0,0,0
+MSC-0-1,S004-D01,MSC,Inactive Latrine,0,1,1
+MSC-0-1,S004-D02,MSC,Inactive Latrine,0,1,1
+MSC-0-1,S004-D03,MSC,Inactive Latrine,0,1,1
+MSC-0-2,S004-E01,MSC,Inactive Latrine,0,0,0
+MSC-0-2,S004-E02,MSC,Inactive Latrine,0,1,0
+MSC-0-2,S004-E03,MSC,Inactive Latrine,0,0,0
+MSC-0-3,S004-F01,MSC,Inactive Latrine,0,1,0
+MSC-0-3,S004-F02,MSC,Inactive Latrine,0,1,1
+MSC-0-3,S004-F03,MSC,Inactive Latrine,0,0,0
+MSC-0-4,S004-G01,MSC,Inactive Latrine,0,0,0
+MSC-0-4,S004-G02,MSC,Inactive Latrine,0,0,0
+MSC-0-4,S004-G03,MSC,Inactive Latrine,0,1,0
+MSC-0-5,S004-H01,MSC,Inactive Latrine,0,1,1
+MSC-0-5,S004-H02,MSC,Inactive Latrine,0,1,1
+MSC-0-5,S004-H03,MSC,Inactive Latrine,0,1,1
+MSC-1,S004-A07,MSC_21,Inactive Latrine,1,1,1
+MSC-1,S004-A08,MSC_21,Inactive Latrine,1,1,1
+MSC-1,S004-A09,MSC_21,Inactive Latrine,1,1,1
+MSC-1-1,S004-A04,MSC,Inactive Latrine,1,0,0
+MSC-1-1,S004-A05,MSC,Inactive Latrine,1,0,0
+MSC-1-1,S004-A06,MSC,Inactive Latrine,1,0,1
+MSC-1-2,S004-B04,MSC,Inactive Latrine,1,0,0
+MSC-1-2,S004-B05,MSC,Inactive Latrine,1,0,0
+MSC-1-2,S004-B06,MSC,Inactive Latrine,1,0,0
+MSC-1-3,S004-C04,MSC,Inactive Latrine,1,0,0
+MSC-1-3,S004-C05,MSC,Inactive Latrine,1,0,0
+MSC-1-3,S004-C06,MSC,Inactive Latrine,1,0,0
+MSC-1-4,S004-D04,MSC,Inactive Latrine,1,1,1
+MSC-1-4,S004-D05,MSC,Inactive Latrine,1,0,0
+MSC-1-4,S004-D06,MSC,Inactive Latrine,1,0,0
+MSC-1-5,S004-E04,MSC,Inactive Latrine,1,1,1
+MSC-1-5,S004-E05,MSC,Inactive Latrine,1,1,1
+MSC-1-5,S004-E06,MSC,Inactive Latrine,1,1,1
+RRS1-1,S010-G07,RRS1,Non-latrine habitat,NA,0,0
+RRS1-1,S010-G08,RRS1,Non-latrine habitat,NA,0,0
+RRS1-1,S010-G09,RRS1,Non-latrine habitat,NA,0,0
+RRS1-2,S010-H07,RRS1,Non-latrine habitat,NA,0,0
+RRS1-2,S010-H08,RRS1,Non-latrine habitat,NA,0,0
+RRS1-2,S010-H09,RRS1,Non-latrine habitat,NA,0,0
+RRS1-3,S010-A10,RRS1,Non-latrine habitat,NA,0,0
+RRS1-3,S010-A11,RRS1,Non-latrine habitat,NA,0,0
+RRS1-3,S010-A12,RRS1,Non-latrine habitat,NA,0,0
+RRS4-1,S010-C10,RRS4,Non-latrine habitat,NA,0,0
+RRS4-1,S010-C11,RRS4,Non-latrine habitat,NA,0,0
+RRS4-1,S010-C12,RRS4,Non-latrine habitat,NA,0,0
+RRS4-2,S010-D10,RRS4,Non-latrine habitat,NA,0,0
+RRS4-2,S010-D11,RRS4,Non-latrine habitat,NA,0,0
+RRS4-2,S010-D12,RRS4,Non-latrine habitat,NA,0,0
+RRS4-3,S010-E10,RRS4,Non-latrine habitat,NA,0,0
+RRS4-3,S010-E11,RRS4,Non-latrine habitat,NA,0,0
+RRS4-3,S010-E12,RRS4,Non-latrine habitat,NA,0,0
+STQ 191-1,S006-F10,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-1,S006-F11,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-1,S006-F12,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-2,S007-A01,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-2,S007-A02,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-2,S007-A03,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-3,S007-B01,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-3,S007-B02,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-3,S007-B03,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-4,S007-C01,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-4,S007-C02,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-4,S007-C03,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-5,S007-D01,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-5,S007-D02,STQ191,STQ positive camera trap,NA,0,0
+STQ 191-5,S007-D03,STQ191,STQ positive camera trap,NA,0,0
+STQ-272-1A,S006-C07,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1A,S006-C08,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1A,S006-C09,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1B,S006-D07,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1B,S006-D08,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1B,S006-D09,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1C,S006-E07,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1C,S006-E08,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1C,S006-E09,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1D,S006-F07,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1D,S006-F08,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1D,S006-F09,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1E,S006-G07,STQ272,STQ positive camera trap,NA,0,1
+STQ-272-1E,S006-G08,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-1E,S006-G09,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2A,S006-H07,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2A,S006-H08,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2A,S006-H09,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2B,S006-A10,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2B,S006-A11,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2B,S006-A12,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2C,S006-B10,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2C,S006-B11,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2C,S006-B12,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2D,S006-C10,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2D,S006-C11,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2D,S006-C12,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2E,S006-D10,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2E,S006-D11,STQ272,STQ positive camera trap,NA,0,0
+STQ-272-2E,S006-D12,STQ272,STQ positive camera trap,NA,0,0
+STQ-GA-L02-1A,S004-H07,GAL02,Active Latrine,0,0,0
+STQ-GA-L02-1A,S004-H08,GAL02,Active Latrine,0,0,0
+STQ-GA-L02-1A,S004-H09,GAL02,Active Latrine,0,0,0
+STQ-GA-L02-1B,S004-A10,GAL02,Active Latrine,0,0,0
+STQ-GA-L02-1B,S004-A11,GAL02,Active Latrine,0,0,0
+STQ-GA-L02-1B,S004-A12,GAL02,Active Latrine,0,0,0
+STQ-GA-L02-1C,S004-B10,GAL02,Active Latrine,0,0,1
+STQ-GA-L02-1C,S004-B11,GAL02,Active Latrine,0,1,1
+STQ-GA-L02-1C,S004-B12,GAL02,Active Latrine,0,1,1
+STQ-GA-L02-1D,S004-C10,GAL02,Active Latrine,0,1,1
+STQ-GA-L02-1D,S004-C11,GAL02,Active Latrine,0,0,0
+STQ-GA-L02-1D,S004-C12,GAL02,Active Latrine,0,0,0
+STQ-GA-L02-1E,S004-D10,GAL02,Active Latrine,0,0,0
+STQ-GA-L02-1E,S004-D11,GAL02,Active Latrine,0,0,0
+STQ-GA-L02-1E,S004-D12,GAL02,Active Latrine,0,1,0
+STQ-GA-L02-2A,S004-E10,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2A,S004-E11,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2A,S004-E12,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2B,S004-F10,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2B,S004-F11,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2B,S004-F12,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2C,S005-A01,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2C,S005-A02,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2C,S005-A03,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2D,S005-B01,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2D,S005-B02,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2D,S005-B03,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2E,S005-C01,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2E,S005-C02,GAL02,Active Latrine,1,0,0
+STQ-GA-L02-2E,S005-C03,GAL02,Active Latrine,1,0,0
+STQ-LRG-D-L01-1A,S005-E01,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1A,S005-E02,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1A,S005-E03,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1B,S005-F01,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1B,S005-F02,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1B,S005-F03,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1C,S005-G01,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1C,S005-G02,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1C,S005-G03,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1D,S005-H01,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1D,S005-H02,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1D,S005-H03,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1E,S005-A04,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1E,S005-A05,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-1E,S005-A06,LDL01,Active Latrine,0,0,0
+STQ-LRG-D-L01-2A,S005-B04,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2A,S005-B05,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2A,S005-B06,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2B,S005-C04,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2B,S005-C05,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2B,S005-C06,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2C,S005-D04,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2C,S005-D05,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2C,S005-D06,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2D,S005-E04,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2D,S005-E05,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2D,S005-E06,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2E,S005-F04,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2E,S005-F05,LDL01,Active Latrine,1,0,0
+STQ-LRG-D-L01-2E,S005-F06,LDL01,Active Latrine,1,0,0
+STQ-MS-L01-1A,S003-A01,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1A,S003-A02,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1A,S003-A03,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1B,S003-B01,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1B,S003-B02,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1B,S003-B03,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1C,S003-C01,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1C,S003-C02,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1C,S003-C03,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1D,S003-D01,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1D,S003-D02,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1D,S003-D03,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1E,S003-E01,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1E,S003-E02,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-1E,S003-E03,MSL01,Inactive Latrine,0,0,0
+STQ-MS-L01-2A,S003-F01,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2A,S003-F02,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2A,S003-F03,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2B,S003-G01,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2B,S003-G02,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2B,S003-G03,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2C,S003-H01,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2C,S003-H02,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2C,S003-H03,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2D,S003-A04,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2D,S003-A05,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2D,S003-A06,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2E,S003-B04,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2E,S003-B05,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L01-2E,S003-B06,MSL01,Inactive Latrine,1,0,0
+STQ-MS-L02-1A,S007-D04,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-1A,S007-D05,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-1A,S007-D06,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-1B,S007-E04,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-1B,S007-E05,MSL02,Inactive Latrine,0,1,1
+STQ-MS-L02-1B,S007-E06,MSL02,Inactive Latrine,0,1,1
+STQ-MS-L02-1C,S007-F04,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-1C,S007-F05,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-1C,S007-F06,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-1D,S007-G04,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-1D,S007-G05,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-1D,S007-G06,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-1E,S007-H04,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-1E,S007-H05,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-1E,S007-H06,MSL02,Inactive Latrine,0,0,0
+STQ-MS-L02-2A,S007-A07,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2A,S007-A08,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2A,S007-A09,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2B,S007-B07,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2B,S007-B08,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2B,S007-B09,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2C,S007-C07,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2C,S007-C08,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2C,S007-C09,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2D,S007-D07,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2D,S007-D08,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2D,S007-D09,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2E,S007-E07,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2E,S007-E08,MSL02,Inactive Latrine,1,0,0
+STQ-MS-L02-2E,S007-E09,MSL02,Inactive Latrine,1,0,0
+STQ-RR-L02-1A,S005-H04,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1A,S005-H05,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1A,S005-H06,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1B,S005-A07,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1B,S005-A08,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1B,S005-A09,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1C,S005-B07,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1C,S005-B08,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1C,S005-B09,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1D,S005-C07,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1D,S005-C08,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1D,S005-C09,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1E,S005-D07,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1E,S005-D08,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-1E,S005-D09,RRL02,Active Latrine,0,1,1
+STQ-RR-L02-2A,S005-E07,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2A,S005-E08,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2A,S005-E09,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2B,S005-F07,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2B,S005-F08,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2B,S005-F09,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2C,S005-G07,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2C,S005-G08,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2C,S005-G09,RRL02,Active Latrine,1,1,0
+STQ-RR-L02-2D,S005-H07,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2D,S005-H08,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2D,S005-H09,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2E,S005-A10,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2E,S005-A11,RRL02,Active Latrine,1,0,0
+STQ-RR-L02-2E,S005-A12,RRL02,Active Latrine,1,0,0
+STQ-SR-L01-1A,S003-C04,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1A,S003-C05,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1A,S003-C06,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1B,S003-E04,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1B,S003-E05,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1B,S003-E06,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1C,S003-F04,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1C,S003-F05,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1C,S003-F06,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1D,S003-G04,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1D,S003-G05,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1D,S003-G06,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1E,S003-H04,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1E,S003-H05,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-1E,S003-H06,SRL01,Inactive Latrine,0,0,0
+STQ-SR-L01-2A,S003-A07,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2A,S003-A08,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2A,S003-A09,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2B,S003-B07,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2B,S003-B08,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2B,S003-B09,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2C,S003-C07,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2C,S003-C08,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2C,S003-C09,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2D,S003-D07,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2D,S003-D08,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2D,S003-D09,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2E,S003-E07,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2E,S003-E08,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L01-2E,S003-E09,SRL01,Inactive Latrine,1,0,0
+STQ-SR-L02-1A,S005-C10,SRL02,Active Latrine,0,0,1
+STQ-SR-L02-1A,S005-C11,SRL02,Active Latrine,0,0,0
+STQ-SR-L02-1A,S005-C12,SRL02,Active Latrine,0,1,0
+STQ-SR-L02-1B,S005-D10,SRL02,Active Latrine,0,1,1
+STQ-SR-L02-1B,S005-D11,SRL02,Active Latrine,0,1,1
+STQ-SR-L02-1B,S005-D12,SRL02,Active Latrine,0,1,1
+STQ-SR-L02-1C,S005-E10,SRL02,Active Latrine,0,1,1
+STQ-SR-L02-1C,S005-E11,SRL02,Active Latrine,0,1,1
+STQ-SR-L02-1C,S005-E12,SRL02,Active Latrine,0,0,1
+STQ-SR-L02-1D,S005-F10,SRL02,Active Latrine,0,1,1
+STQ-SR-L02-1D,S005-F11,SRL02,Active Latrine,0,0,0
+STQ-SR-L02-1D,S005-F12,SRL02,Active Latrine,0,0,1
+STQ-SR-L02-1E,S006-A01,SRL02,Active Latrine,0,1,0
+STQ-SR-L02-1E,S006-A02,SRL02,Active Latrine,0,0,0
+STQ-SR-L02-1E,S006-A03,SRL02,Active Latrine,0,0,0
+STQ-SR-L02-2A,S006-B01,SRL02,Active Latrine,1,1,0
+STQ-SR-L02-2A,S006-B02,SRL02,Active Latrine,1,0,0
+STQ-SR-L02-2A,S006-B03,SRL02,Active Latrine,1,0,0
+STQ-SR-L02-2B,S006-C01,SRL02,Active Latrine,1,0,0
+STQ-SR-L02-2B,S006-C02,SRL02,Active Latrine,1,0,0
+STQ-SR-L02-2B,S006-C03,SRL02,Active Latrine,1,0,0
+STQ-SR-L02-2C,S006-D01,SRL02,Active Latrine,1,0,0
+STQ-SR-L02-2C,S006-D02,SRL02,Active Latrine,1,0,0
+STQ-SR-L02-2C,S006-D03,SRL02,Active Latrine,1,0,0
+STQ-SR-L02-2D,S006-E01,SRL02,Active Latrine,1,0,0
+STQ-SR-L02-2D,S006-E02,SRL02,Active Latrine,1,0,0
+STQ-SR-L02-2D,S006-E03,SRL02,Active Latrine,1,0,0
+STQ-SR-L02-2E,S006-F01,SRL02,Active Latrine,1,0,0
+STQ-SR-L02-2E,S006-F02,SRL02,Active Latrine,1,1,0
+STQ-SR-L02-2E,S006-F03,SRL02,Active Latrine,1,0,0
+STQ120-1,S007-F01,STQ120,STQ positive camera trap,NA,0,0
+STQ120-1,S007-F02,STQ120,STQ positive camera trap,NA,0,0
+STQ120-1,S007-F03,STQ120,STQ positive camera trap,NA,1,1
+STQ120-2,S007-G01,STQ120,STQ positive camera trap,NA,0,0
+STQ120-2,S007-G02,STQ120,STQ positive camera trap,NA,0,0
+STQ120-2,S007-G03,STQ120,STQ positive camera trap,NA,0,0
+STQ120-3,S007-H01,STQ120,STQ positive camera trap,NA,0,0
+STQ120-3,S007-H02,STQ120,STQ positive camera trap,NA,0,0
+STQ120-3,S007-H03,STQ120,STQ positive camera trap,NA,0,0
+STQ120-4,S007-A04,STQ120,STQ positive camera trap,NA,0,0
+STQ120-4,S007-A05,STQ120,STQ positive camera trap,NA,0,0
+STQ120-4,S007-A06,STQ120,STQ positive camera trap,NA,0,0
+STQ120-5,S007-B04,STQ120,STQ positive camera trap,NA,0,0
+STQ120-5,S007-B05,STQ120,STQ positive camera trap,NA,0,0
+STQ120-5,S007-B06,STQ120,STQ positive camera trap,NA,0,0
+STQ134_01_A,S007-D10,STQ134,Non-latrine habitat,NA,0,0
+STQ134_01_A,S007-D11,STQ134,Non-latrine habitat,NA,0,0
+STQ134_01_A,S007-D12,STQ134,Non-latrine habitat,NA,0,0
+STQ134_01_B,S007-E10,STQ134,Non-latrine habitat,NA,0,0
+STQ134_01_B,S007-E11,STQ134,Non-latrine habitat,NA,0,0
+STQ134_01_B,S007-E12,STQ134,Non-latrine habitat,NA,0,0
+STQ134_01_C,S007-F10,STQ134,Non-latrine habitat,NA,0,0
+STQ134_01_C,S007-F11,STQ134,Non-latrine habitat,NA,0,0
+STQ134_01_C,S007-F12,STQ134,Non-latrine habitat,NA,0,0
+STQ134_01_D,S008-A01,STQ134,Non-latrine habitat,NA,0,0
+STQ134_01_D,S008-A02,STQ134,Non-latrine habitat,NA,0,0
+STQ134_01_D,S008-A03,STQ134,Non-latrine habitat,NA,0,0
+STQ210_01_1,S010-C01,STQ210,Non-latrine habitat,NA,0,0
+STQ210_01_1,S010-C02,STQ210,Non-latrine habitat,NA,0,0
+STQ210_01_1,S010-C03,STQ210,Non-latrine habitat,NA,0,0
+STQ210_01_2,S010-D01,STQ210,Non-latrine habitat,NA,0,0
+STQ210_01_2,S010-D02,STQ210,Non-latrine habitat,NA,0,0
+STQ210_01_2,S010-D03,STQ210,Non-latrine habitat,NA,0,0
+STQ210_01_3,S010-E01,STQ210,Non-latrine habitat,NA,0,0
+STQ210_01_3,S010-E02,STQ210,Non-latrine habitat,NA,0,0
+STQ210_01_3,S010-E03,STQ210,Non-latrine habitat,NA,0,0
+STQ210_01_4,S010-F01,STQ210,Non-latrine habitat,NA,0,0
+STQ210_01_4,S010-F02,STQ210,Non-latrine habitat,NA,0,0
+STQ210_01_4,S010-F03,STQ210,Non-latrine habitat,NA,0,0
+STQ214_01_1,S009-E04,STQ214,Non-latrine habitat,NA,0,0
+STQ214_01_1,S009-E05,STQ214,Non-latrine habitat,NA,0,0
+STQ214_01_1,S009-E06,STQ214,Non-latrine habitat,NA,0,0
+STQ214_01_2,S009-F04,STQ214,Non-latrine habitat,NA,0,0
+STQ214_01_2,S009-F05,STQ214,Non-latrine habitat,NA,0,0
+STQ214_01_2,S009-F06,STQ214,Non-latrine habitat,NA,0,0
+STQ214_01_3,S009-G04,STQ214,Non-latrine habitat,NA,0,0
+STQ214_01_3,S009-G05,STQ214,Non-latrine habitat,NA,0,0
+STQ214_01_3,S009-G06,STQ214,Non-latrine habitat,NA,0,0
+STQ214_01_4,S009-H04,STQ214,Non-latrine habitat,NA,0,0
+STQ214_01_4,S009-H05,STQ214,Non-latrine habitat,NA,0,0
+STQ214_01_4,S009-H06,STQ214,Non-latrine habitat,NA,0,0
+STQ223_01_1,S010-H01,STQ223,Non-latrine habitat,NA,0,0
+STQ223_01_1,S010-H02,STQ223,Non-latrine habitat,NA,0,0
+STQ223_01_1,S010-H03,STQ223,Non-latrine habitat,NA,0,0
+STQ223_01_2,S010-A04,STQ223,Non-latrine habitat,NA,0,0
+STQ223_01_2,S010-A05,STQ223,Non-latrine habitat,NA,0,0
+STQ223_01_2,S010-A06,STQ223,Non-latrine habitat,NA,0,0
+STQ223_01_3,S010-B04,STQ223,Non-latrine habitat,NA,0,0
+STQ223_01_3,S010-B05,STQ223,Non-latrine habitat,NA,0,0
+STQ223_01_3,S010-B06,STQ223,Non-latrine habitat,NA,0,0
+STQ223_01_4,S010-C04,STQ223,Non-latrine habitat,NA,0,0
+STQ223_01_4,S010-C05,STQ223,Non-latrine habitat,NA,0,0
+STQ223_01_4,S010-C06,STQ223,Non-latrine habitat,NA,0,0
+STQ224_01_1,S009-G07,STQ224,Non-latrine habitat,NA,0,0
+STQ224_01_1,S009-G08,STQ224,Non-latrine habitat,NA,0,0
+STQ224_01_1,S009-G09,STQ224,Non-latrine habitat,NA,0,0
+STQ224_01_2,S009-H07,STQ224,Non-latrine habitat,NA,0,0
+STQ224_01_2,S009-H08,STQ224,Non-latrine habitat,NA,0,0
+STQ224_01_2,S009-H09,STQ224,Non-latrine habitat,NA,0,0
+STQ224_01_3,S009-A10,STQ224,Non-latrine habitat,NA,1,0
+STQ224_01_3,S009-A11,STQ224,Non-latrine habitat,NA,0,0
+STQ224_01_3,S009-A12,STQ224,Non-latrine habitat,NA,0,0
+STQ224_01_4,S009-B10,STQ224,Non-latrine habitat,NA,0,0
+STQ224_01_4,S009-B11,STQ224,Non-latrine habitat,NA,0,0
+STQ224_01_4,S009-B12,STQ224,Non-latrine habitat,NA,0,0
+STQ230_01_A,S008-E04,STQ230,Non-latrine habitat,NA,0,0
+STQ230_01_A,S008-E05,STQ230,Non-latrine habitat,NA,0,0
+STQ230_01_A,S008-E06,STQ230,Non-latrine habitat,NA,0,0
+STQ230_01_B,S008-F04,STQ230,Non-latrine habitat,NA,0,0
+STQ230_01_B,S008-F05,STQ230,Non-latrine habitat,NA,0,0
+STQ230_01_B,S008-F06,STQ230,Non-latrine habitat,NA,0,0
+STQ230_01_C,S008-G04,STQ230,Non-latrine habitat,NA,0,0
+STQ230_01_C,S008-G05,STQ230,Non-latrine habitat,NA,0,0
+STQ230_01_C,S008-G06,STQ230,Non-latrine habitat,NA,0,0
+STQ230_01_D,S008-H04,STQ230,Non-latrine habitat,NA,0,0
+STQ230_01_D,S008-H05,STQ230,Non-latrine habitat,NA,0,0
+STQ230_01_D,S008-H06,STQ230,Non-latrine habitat,NA,0,0
+STQ236_01_A,S008-D10,STQ236,Non-latrine habitat,NA,0,0
+STQ236_01_A,S008-D11,STQ236,Non-latrine habitat,NA,0,0
+STQ236_01_A,S008-D12,STQ236,Non-latrine habitat,NA,0,0
+STQ236_01_B,S008-E10,STQ236,Non-latrine habitat,NA,0,0
+STQ236_01_B,S008-E11,STQ236,Non-latrine habitat,NA,0,0
+STQ236_01_B,S008-E12,STQ236,Non-latrine habitat,NA,0,0
+STQ236_01_C,S008-F10,STQ236,Non-latrine habitat,NA,0,0
+STQ236_01_C,S008-F11,STQ236,Non-latrine habitat,NA,0,0
+STQ236_01_C,S008-F12,STQ236,Non-latrine habitat,NA,0,0
+STQ236_01_D,S009-A01,STQ236,Non-latrine habitat,NA,0,0
+STQ236_01_D,S009-A02,STQ236,Non-latrine habitat,NA,0,0
+STQ236_01_D,S009-A03,STQ236,Non-latrine habitat,NA,0,0
+STQ237_01_1,S010-B07,STQ237,Non-latrine habitat,NA,0,0
+STQ237_01_1,S010-B08,STQ237,Non-latrine habitat,NA,0,0
+STQ237_01_1,S010-B09,STQ237,Non-latrine habitat,NA,0,0
+STQ237_01_2,S010-C07,STQ237,Non-latrine habitat,NA,0,0
+STQ237_01_2,S010-C08,STQ237,Non-latrine habitat,NA,0,0
+STQ237_01_2,S010-C09,STQ237,Non-latrine habitat,NA,0,0
+STQ237_01_3,S010-D07,STQ237,Non-latrine habitat,NA,0,0
+STQ237_01_3,S010-D08,STQ237,Non-latrine habitat,NA,0,0
+STQ237_01_3,S010-D09,STQ237,Non-latrine habitat,NA,0,0
+STQ237_01_4,S010-E07,STQ237,Non-latrine habitat,NA,0,0
+STQ237_01_4,S010-E08,STQ237,Non-latrine habitat,NA,0,0
+STQ237_01_4,S010-E09,STQ237,Non-latrine habitat,NA,0,0
+STQ239_01_1,S008-G07,STQ239,Non-latrine habitat,NA,0,0
+STQ239_01_1,S008-G08,STQ239,Non-latrine habitat,NA,0,0
+STQ239_01_1,S008-G09,STQ239,Non-latrine habitat,NA,0,0
+STQ239_01_2,S008-H07,STQ239,Non-latrine habitat,NA,0,0
+STQ239_01_2,S008-H08,STQ239,Non-latrine habitat,NA,0,0
+STQ239_01_2,S008-H09,STQ239,Non-latrine habitat,NA,0,0
+STQ239_01_3,S008-A10,STQ239,Non-latrine habitat,NA,0,0
+STQ239_01_3,S008-A11,STQ239,Non-latrine habitat,NA,0,0
+STQ239_01_3,S008-A12,STQ239,Non-latrine habitat,NA,0,0
+STQ239_01_4,S008-B10,STQ239,Non-latrine habitat,NA,0,0
+STQ239_01_4,S008-B11,STQ239,Non-latrine habitat,NA,0,0
+STQ239_01_4,S008-B12,STQ239,Non-latrine habitat,NA,0,0
+STQ259_01_1,S008-C01,STQ259,Non-latrine habitat,NA,0,0
+STQ259_01_1,S008-C02,STQ259,Non-latrine habitat,NA,0,0
+STQ259_01_1,S008-C03,STQ259,Non-latrine habitat,NA,0,0
+STQ259_01_2,S008-D01,STQ259,Non-latrine habitat,NA,0,0
+STQ259_01_2,S008-D02,STQ259,Non-latrine habitat,NA,0,0
+STQ259_01_2,S008-D03,STQ259,Non-latrine habitat,NA,0,0
+STQ259_01_3,S008-E01,STQ259,Non-latrine habitat,NA,0,0
+STQ259_01_3,S008-E02,STQ259,Non-latrine habitat,NA,0,0
+STQ259_01_3,S008-E03,STQ259,Non-latrine habitat,NA,0,0
+STQ259_01_4,S008-F01,STQ259,Non-latrine habitat,NA,0,0
+STQ259_01_4,S008-F02,STQ259,Non-latrine habitat,NA,0,0
+STQ259_01_4,S008-F03,STQ259,Non-latrine habitat,NA,0,0
+STQ261_01_1,S008-B07,STQ261,Non-latrine habitat,NA,0,0
+STQ261_01_1,S008-B08,STQ261,Non-latrine habitat,NA,0,0
+STQ261_01_1,S008-B09,STQ261,Non-latrine habitat,NA,0,0
+STQ261_01_2,S008-C07,STQ261,Non-latrine habitat,NA,0,0
+STQ261_01_2,S008-C08,STQ261,Non-latrine habitat,NA,0,0
+STQ261_01_2,S008-C09,STQ261,Non-latrine habitat,NA,0,0
+STQ261_01_3,S008-D07,STQ261,Non-latrine habitat,NA,0,0
+STQ261_01_3,S008-D08,STQ261,Non-latrine habitat,NA,0,0
+STQ261_01_3,S008-D09,STQ261,Non-latrine habitat,NA,0,0
+STQ261_01_4,S008-E07,STQ261,Non-latrine habitat,NA,0,0
+STQ261_01_4,S008-E08,STQ261,Non-latrine habitat,NA,0,0
+STQ261_01_4,S008-E09,STQ261,Non-latrine habitat,NA,0,0
+STQ263_01_A,S008-H01,STQ263,Non-latrine habitat,NA,0,0
+STQ263_01_A,S008-H02,STQ263,Non-latrine habitat,NA,0,0
+STQ263_01_A,S008-H03,STQ263,Non-latrine habitat,NA,0,0
+STQ263_01_B,S008-A04,STQ263,Non-latrine habitat,NA,0,0
+STQ263_01_B,S008-A05,STQ263,Non-latrine habitat,NA,0,0
+STQ263_01_B,S008-A06,STQ263,Non-latrine habitat,NA,0,0
+STQ263_01_C,S008-B04,STQ263,Non-latrine habitat,NA,0,0
+STQ263_01_C,S008-B05,STQ263,Non-latrine habitat,NA,0,0
+STQ263_01_C,S008-B06,STQ263,Non-latrine habitat,NA,0,0
+STQ263_01_D,S008-C04,STQ263,Non-latrine habitat,NA,0,0
+STQ263_01_D,S008-C05,STQ263,Non-latrine habitat,NA,0,0
+STQ263_01_D,S008-C06,STQ263,Non-latrine habitat,NA,0,0
+STQ266_01_1,S009-H01,STQ266,Non-latrine habitat,NA,0,0
+STQ266_01_1,S009-H02,STQ266,Non-latrine habitat,NA,0,0
+STQ266_01_1,S009-H03,STQ266,Non-latrine habitat,NA,0,0
+STQ266_01_2,S009-A04,STQ266,Non-latrine habitat,NA,0,0
+STQ266_01_2,S009-A05,STQ266,Non-latrine habitat,NA,0,0
+STQ266_01_2,S009-A06,STQ266,Non-latrine habitat,NA,0,0
+STQ266_01_3,S009-B04,STQ266,Non-latrine habitat,NA,0,0
+STQ266_01_3,S009-B05,STQ266,Non-latrine habitat,NA,0,0
+STQ266_01_3,S009-B06,STQ266,Non-latrine habitat,NA,0,0
+STQ266_01_4,S009-C04,STQ266,Non-latrine habitat,NA,0,0
+STQ266_01_4,S009-C05,STQ266,Non-latrine habitat,NA,0,0
+STQ266_01_4,S009-C06,STQ266,Non-latrine habitat,NA,0,0
+STQ280_01_1,S009-C01,STQ280,Non-latrine habitat,NA,0,0
+STQ280_01_1,S009-C02,STQ280,Non-latrine habitat,NA,0,0
+STQ280_01_1,S009-C03,STQ280,Non-latrine habitat,NA,0,0
+STQ280_01_2,S009-D01,STQ280,Non-latrine habitat,NA,0,0
+STQ280_01_2,S009-D02,STQ280,Non-latrine habitat,NA,0,0
+STQ280_01_2,S009-D03,STQ280,Non-latrine habitat,NA,0,0
+STQ280_01_3,S009-E01,STQ280,Non-latrine habitat,NA,0,0
+STQ280_01_3,S009-E02,STQ280,Non-latrine habitat,NA,0,0
+STQ280_01_3,S009-E03,STQ280,Non-latrine habitat,NA,0,0
+STQ280_01_4,S009-F01,STQ280,Non-latrine habitat,NA,0,0
+STQ280_01_4,S009-F02,STQ280,Non-latrine habitat,NA,0,0
+STQ280_01_4,S009-F03,STQ280,Non-latrine habitat,NA,0,0
+STQ289_01_1,S009-D10,STQ289,Non-latrine habitat,NA,1,0
+STQ289_01_1,S009-D11,STQ289,Non-latrine habitat,NA,1,0
+STQ289_01_1,S009-D12,STQ289,Non-latrine habitat,NA,0,0
+STQ289_01_2,S009-E10,STQ289,Non-latrine habitat,NA,0,0
+STQ289_01_2,S009-E11,STQ289,Non-latrine habitat,NA,0,0
+STQ289_01_2,S009-E12,STQ289,Non-latrine habitat,NA,0,0
+STQ289_01_3,S009-F10,STQ289,Non-latrine habitat,NA,0,0
+STQ289_01_3,S009-F11,STQ289,Non-latrine habitat,NA,0,0
+STQ289_01_3,S009-F12,STQ289,Non-latrine habitat,NA,0,0
+STQ289_01_4,S010-A01,STQ289,Non-latrine habitat,NA,0,0
+STQ289_01_4,S010-A02,STQ289,Non-latrine habitat,NA,0,0
+STQ289_01_4,S010-A03,STQ289,Non-latrine habitat,NA,0,0
+STQ297_01_1,S007-G07,STQ297,Non-latrine habitat,NA,0,0
+STQ297_01_1,S007-G08,STQ297,Non-latrine habitat,NA,0,0
+STQ297_01_1,S007-G09,STQ297,Non-latrine habitat,NA,0,0
+STQ297_01_2,S007-H07,STQ297,Non-latrine habitat,NA,0,0
+STQ297_01_2,S007-H08,STQ297,Non-latrine habitat,NA,0,0
+STQ297_01_2,S007-H09,STQ297,Non-latrine habitat,NA,0,0
+STQ297_01_3,S007-A10,STQ297,Non-latrine habitat,NA,0,0
+STQ297_01_3,S007-A11,STQ297,Non-latrine habitat,NA,0,0
+STQ297_01_3,S007-A12,STQ297,Non-latrine habitat,NA,0,0
+STQ297_01_4,S007-B10,STQ297,Non-latrine habitat,NA,0,0
+STQ297_01_4,S007-B11,STQ297,Non-latrine habitat,NA,0,0
+STQ297_01_4,S007-B12,STQ297,Non-latrine habitat,NA,0,0
+STQ299_01_1,S010-E04,STQ299,Non-latrine habitat,NA,0,0
+STQ299_01_1,S010-E05,STQ299,Non-latrine habitat,NA,0,0
+STQ299_01_1,S010-E06,STQ299,Non-latrine habitat,NA,0,0
+STQ299_01_2,S010-F04,STQ299,Non-latrine habitat,NA,0,0
+STQ299_01_2,S010-F05,STQ299,Non-latrine habitat,NA,0,0
+STQ299_01_2,S010-F06,STQ299,Non-latrine habitat,NA,0,0
+STQ299_01_3,S010-G04,STQ299,Non-latrine habitat,NA,0,0
+STQ299_01_3,S010-G05,STQ299,Non-latrine habitat,NA,0,0
+STQ299_01_3,S010-G06,STQ299,Non-latrine habitat,NA,0,0
+STQ299_01_4,S010-H04,STQ299,Non-latrine habitat,NA,0,0
+STQ299_01_4,S010-H05,STQ299,Non-latrine habitat,NA,0,0
+STQ299_01_4,S010-H06,STQ299,Non-latrine habitat,NA,0,0
+STQ300_01_1,S009-B07,STQ300,Non-latrine habitat,NA,0,0
+STQ300_01_1,S009-B08,STQ300,Non-latrine habitat,NA,0,0
+STQ300_01_1,S009-B09,STQ300,Non-latrine habitat,NA,0,0
+STQ300_01_2,S009-C07,STQ300,Non-latrine habitat,NA,0,0
+STQ300_01_2,S009-C08,STQ300,Non-latrine habitat,NA,0,0
+STQ300_01_2,S009-C09,STQ300,Non-latrine habitat,NA,0,0
+STQ300_01_3,S009-D07,STQ300,Non-latrine habitat,NA,0,0
+STQ300_01_3,S009-D08,STQ300,Non-latrine habitat,NA,0,0
+STQ300_01_3,S009-D09,STQ300,Non-latrine habitat,NA,0,0
+STQ300_01_4,S009-E07,STQ300,Non-latrine habitat,NA,0,0
+STQ300_01_4,S009-E08,STQ300,Non-latrine habitat,NA,0,0
+STQ300_01_4,S009-E09,STQ300,Non-latrine habitat,NA,0,0
+WR-1,S004-D07,WR,Inactive Latrine,1,1,1
+WR-1,S004-D08,WR,Inactive Latrine,1,1,1
+WR-1,S004-D09,WR,Inactive Latrine,1,1,1
+WR-O,S004-C07,WR,Inactive Latrine,0,1,0
+WR-O,S004-C08,WR,Inactive Latrine,0,0,0
+WR-O,S004-C09,WR,Inactive Latrine,0,0,0
